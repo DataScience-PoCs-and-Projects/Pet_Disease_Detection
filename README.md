@@ -1,2 +1,3 @@
 # Pet_Disease_Detection
 DL based Pet disease Detection (cats)
+This project develops explainable computer vision for veterinary pet-health screening by combining multimodal image analysis with specialized deep-learning models to detect and assess disease indicators in pets. Built for practical clinical and research use, it integrates visual diagnostic signals with interpretable AI techniques such as Grad-CAM and vision-language model (VLM)-based explanations to help users understand why a prediction was made. By making model decisions more transparent and actionable, the system supports safer and more trustworthy pet health assessments while advancing AI-driven veterinary diagnostics.

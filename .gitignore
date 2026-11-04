@@ -18,7 +18,7 @@ data/symptoms/
 data/injury_triage/
 
 # Large model checkpoints
-*.pth
+# Keep model files available for deployment
 *.pt
 *.onnx
 *.safetensors

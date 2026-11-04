@@ -1,7 +1,9 @@
-deeplabcut>=3.0.0
-dlclibrary>=0.0.7
-numpy>=1.24
-pandas>=2.0
-scipy>=1.10
-matplotlib>=3.7
-opencv-python>=4.8
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.5.1+cpu
+torchvision==0.20.1+cpu
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+python-multipart
+pillow
+numpy<2
